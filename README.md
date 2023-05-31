@@ -13,13 +13,16 @@ Guess the random number taken by PC with minimum attempts
 
 **Competitive environment:**
 - Computer takes an interger in range from 0 to 100 and we have to guess it. By 'guess' we imply 'create the program which guesses the number'
-- The algorythm takes in consideration the information whether the number is greater or smaller that we are guessing.
+- The algorythm takes in consideration the information whether the number is greater or smaller than the one we are guessing.
 
 **Quality metrics**
 Results are evaluated by the mean of attempts in 1000 repeats
 
 **What we practice**
-Learning to make good Python code
+- Learning to make good Python code
+- Learning to work with IDE
+- Learning to work with GitHub
+
 
 ### Short info about the data
 ...
