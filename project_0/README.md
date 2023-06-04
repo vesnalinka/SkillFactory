@@ -2,11 +2,11 @@
 
 ## List of contents
 [1. Description of the project](https://github.com/vesnalinka/SkillFactory/blob/main/project_0/README.md#description-of-the-project)
-[2. Case to solve](https://github.com/vesnalinka/SkillFactory/tree/master/project_0)
+[2. Case to solve](https://github.com/vesnalinka/SkillFactory/blob/main/project_0/README.md#case-to-solve)
 [3. Info about the data](https://github.com/vesnalinka/SkillFactory/blob/main/project_0/README.md#short-info-about-the-data)
-[4. Stages of work on the project](https://github.com/vesnalinka/SkillFactory/tree/master/project_0)
-[5. Result](https://github.com/vesnalinka/SkillFactory/tree/master/project_0)
-[6. Conclusions](https://github.com/vesnalinka/SkillFactory/tree/master/project_0)
+[4. Stages of work on the project](https://github.com/vesnalinka/SkillFactory/blob/main/project_0/README.md#stages-of-work-on-the-project)
+[5. Result](https://github.com/vesnalinka/SkillFactory/blob/main/project_0/README.md#result)
+[6. Conclusions](https://github.com/vesnalinka/SkillFactory/blob/main/project_0/README.md#conclusions)
 
 ### Description of the project
 Guess the random number taken by PC with minimum attempts
