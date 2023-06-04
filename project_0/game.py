@@ -17,4 +17,4 @@ while True:
         
     else:
         print(f'Вы угадали число за {count} попыток! Это число = {number}')
-        break # End of game, exit from loop 
+        break # End of game, exit the loop 
