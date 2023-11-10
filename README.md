@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-# My Data Science projects
-From [the SkillFactory DS course](https://skillfactory.ru/courses/data-science)
-
-## Projects
-
-* [Project 0. Game: guess the number](https://github.com/vesnalinka/SkillFactory/tree/master)
-
-## Link to CV
-=======
 # Project 0. Guess the number
 
 ## List of contents
@@ -38,4 +28,3 @@ Results are evaluated by the mean of attempts in 1000 repeats
 ...
 
 :arrow_up:[To the List of contents](https://github.com/vesnalinka/SkillFactory/tree/master/project_0)
->>>>>>> master
